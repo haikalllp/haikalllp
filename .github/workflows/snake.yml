@@ -10,6 +10,11 @@ on:
   push:
     branches:
       - main
+
+# Add permissions to allow writing to the repository
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
