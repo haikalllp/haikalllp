@@ -1,8 +1,8 @@
 # Always Learning 🫡
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haikalllp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haikalllp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haikalllp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&title_color=58a6ff&text_color=67b0ff&icon_color=3f94fb&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haikalllp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&title_color=58a6ff&text_color=67b0ff&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <img align="right" height="150" src="placeholder" />
@@ -22,14 +22,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
 </div>
 
-## Connect With Me
+<br>
 
 <div align="left">
   <a href="#" target="_blank">
@@ -47,14 +47,14 @@
 
 ## Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haikalllp/haikalllp/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haikalllp/haikalllp/output/snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/haikalllp/haikalllp/output/snake.svg">
-</picture>
-
-## Achievements
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=haikalllp&theme=transparent&hide_border=true&title_color=58a6ff&text_color=67b0ff" height="150" alt="streak stats" />
+</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haikalllp&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Github Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haikalllp/haikalllp/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haikalllp/haikalllp/output/snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/haikalllp/haikalllp/output/snake.svg">
+  </picture>
 </div>
