@@ -57,7 +57,7 @@
 ## Activity
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=haikalllp&theme=rose_pine&hide_border=false&title_color=ebbcba&text_color=e0def4&background=191724" height="150" alt="streak stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=haikalllp&theme=rose_pine&hide_border=false&title_color=ebbcba&text_color=e0def4&background=191724&count_private=true" height="150" alt="streak stats" />
 </div>
 
 <div align="center">
