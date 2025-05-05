@@ -2,8 +2,17 @@
 
 # Always Learning 🫡
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haikalllp&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&title_color=ebbcba&text_color=e0def4&bg_color=191724" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikalllp&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=ebbcba&text_color=e0def4&bg_color=191724" height="150" alt="top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=haikalllp&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&title_color=ebbcba&text_color=e0def4&bg_color=191724" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=haikalllp&theme=rose_pine_dawn&hide_border=false&include_all_commits=true&count_private=true&bg_color=faf4ed&text_color=575279&title_color=d7827e" />
+    <img src="https://github-readme-stats.vercel.app/api?username=haikalllp&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&title_color=ebbcba&text_color=e0def4&bg_color=191724" height="150" alt="stats graph" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haikalllp&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=ebbcba&text_color=e0def4&bg_color=191724" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haikalllp&theme=rose_pine_dawn&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=faf4ed&text_color=575279&title_color=d7827e" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikalllp&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=ebbcba&text_color=e0def4&bg_color=191724" height="150" alt="top languages" />
+  </picture>
 </div>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikalllp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
@@ -57,7 +66,11 @@
 ## Activity
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=haikalllp&theme=rose_pine&hide_border=false&title_color=ebbcba&text_color=e0def4&background=191724&count_private=true" height="150" alt="streak stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=haikalllp&theme=rose_pine&hide_border=false&title_color=ebbcba&text_color=e0def4&background=191724&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=haikalllp&theme=rose_pine_dawn&hide_border=false&title_color=d7827e&text_color=575279&background=faf4ed&count_private=true" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=haikalllp&theme=rose_pine&hide_border=false&title_color=ebbcba&text_color=e0def4&background=191724&count_private=true" height="150" alt="streak stats" />
+  </picture>
 </div>
 
 <div align="center">
