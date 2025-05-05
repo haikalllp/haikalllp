@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haikalllp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&title_color=ebbcba&text_color=e0def4&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
 </div>
 
-<!-- <img align="right" height="150" src="https://raw.githubusercontent.com/haikalllp/haikalllp/output/ocean.gif" /> -->
+<!-- <img align="right" height="150" src="gif" /> -->
 
 ## Tech Stack
 
