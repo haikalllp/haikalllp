@@ -1,8 +1,8 @@
 # Always Learning 🫡
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haikalllp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&title_color=ebbcba&text_color=e0def4&icon_color=9ccfd8&locale=en&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haikalllp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&title_color=ebbcba&text_color=e0def4&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haikalllp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&title_color=ebbcba&text_color=e0def4&icon_color=9ccfd8&locale=en&hide_border=true&bg_color=191724" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haikalllp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&title_color=ebbcba&text_color=e0def4&hide_border=true&bg_color=191724" height="150" alt="languages graph" />
 </div>
 
 <!-- <img align="right" height="150" src="gif" /> -->
@@ -50,7 +50,7 @@
 ## Activity
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=haikalllp&theme=rose_pine&hide_border=true&title_color=ebbcba&text_color=e0def4&background=00000000" height="150" alt="streak stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=haikalllp&theme=rose_pine&hide_border=true&title_color=ebbcba&text_color=e0def4&background=191724" height="150" alt="streak stats" />
 </div>
 
 <div align="center">
