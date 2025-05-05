@@ -68,7 +68,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=haikalllp&theme=rose_pine&hide_border=false&title_color=ebbcba&text_color=e0def4&background=191724&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=haikalllp&theme=rose_pine_dawn&hide_border=false&title_color=d7827e&text_color=575279&background=faf4ed&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=haikalllp&theme=rose_pine_dawn&hide_border=false&title_color=d7827e&text_color=575279&background=faf4ed&count_private=true&ring=fad188&fire=fad188&currStreakLabel=fad188" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=haikalllp&theme=rose_pine&hide_border=false&title_color=ebbcba&text_color=e0def4&background=191724&count_private=true" height="150" alt="streak stats" />
   </picture>
 </div>
