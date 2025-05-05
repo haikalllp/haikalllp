@@ -1,11 +1,12 @@
 <div align="center">
 
 # Always Learning 🫡
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haikalllp&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&title_color=ebbcba&text_color=e0def4&bg_color=191724" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haikalllp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&title_color=ebbcba&text_color=e0def4&hide_border=false&bg_color=191724" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikalllp&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=ebbcba&text_color=e0def4&bg_color=191724" height="150" alt="top languages" />
 </div>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikalllp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
 
 <!-- <img align="right" height="150" src="gif" /> -->
 
