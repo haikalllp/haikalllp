@@ -33,8 +33,8 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/rosepine.gif?color_snake=#ebbcba&color_dots=#191724,#1f1d2e,#26233a,#6e6a86,#9ccfd8
-            dist/rosepine-dark.gif?color_snake=#9ccfd8&color_dots=#191724,#1f1d2e,#26233a,#6e6a86,#eb6f92
+            dist/rosepine.gif?color_snake=#ebbcba&color_dots=#26233a,#6e6a86,#908caa,#c4a7e7,#9ccfd8
+            dist/rosepine-dark.gif?color_snake=#9ccfd8&color_dots=#26233a,#6e6a86,#908caa,#e0def4,#eb6f92
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Step 3: Deploy the generated files to the 'output' branch
