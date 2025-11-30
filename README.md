@@ -2,9 +2,9 @@
 
 # Always Learning 🫡
 
-  Hi I'm Haikal, a junior software developer from Australia.
+  Hi, I'm Haikal, a junior software developer from Australia.
 
-  I love creating and learning, especially in web and game development.
+  I love creating and learning, especially on web development, game development, and open-source contributions.
 
 <!-- First stats picture intentionally commented out (kept for future use) -->
 <!-- <picture>
