@@ -1,19 +1,27 @@
 <div align="center">
 
 # Always Learning 🫡
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=haikalllp&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&title_color=ebbcba&text_color=e0def4&bg_color=191724" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=haikalllp&theme=rose_pine_dawn&hide_border=false&include_all_commits=true&count_private=true&bg_color=faf4ed&text_color=575279&title_color=d7827e" />
-    <img src="https://github-readme-stats.vercel.app/api?username=haikalllp&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&title_color=ebbcba&text_color=e0def4&bg_color=191724" height="150" alt="stats graph" />
-  </picture>
 
+  Hi I'm Haikal, a junior software developer from Australia.
+
+  I love creating and learning, especially in web and game development.
+
+<!-- First stats picture intentionally commented out (kept for future use) -->
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=haikalllp&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&title_color=ebbcba&text_color=e0def4&bg_color=191724" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=haikalllp&theme=rose_pine_dawn&hide_border=false&include_all_commits=true&count_private=true&bg_color=faf4ed&text_color=575279&title_color=d7827e" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haikalllp&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&title_color=ebbcba&text_color=e0def4&bg_color=191724" height="150" alt="stats graph" />
+</picture> -->
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haikalllp&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=ebbcba&text_color=e0def4&bg_color=191724" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haikalllp&theme=rose_pine_dawn&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=faf4ed&text_color=575279&title_color=d7827e" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikalllp&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=ebbcba&text_color=e0def4&bg_color=191724" height="150" alt="top languages" />
   </picture>
 </div>
+
+<br clear="both" />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikalllp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
 
