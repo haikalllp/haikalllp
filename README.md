@@ -69,14 +69,13 @@
 
 ## Activity
 
-<!-- streak stats broken rn -->
-<!-- <div align="center">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=haikalllp&theme=rose_pine&hide_border=false&title_color=ebbcba&text_color=e0def4&background=191724&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=haikalllp&theme=rose_pine_dawn&hide_border=false&title_color=d7827e&text_color=575279&background=faf4ed&count_private=true&ring=fad188&fire=fad188&currStreakLabel=fad188" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=haikalllp&theme=rose_pine&hide_border=false&title_color=ebbcba&text_color=e0def4&background=191724&count_private=true" height="150" alt="streak stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=haikalllp&theme=dark&hide_border=false&background=191724&stroke=ebbcba&ring=ebbcba&fire=ebbcba&currStreakLabel=ebbcba&sideLabels=e0def4&sideNums=e0def4&currStreakNum=ebbcba&dates=e0def4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=haikalllp&theme=light&hide_border=false&background=faf4ed&stroke=d7827e&ring=d7827e&fire=d7827e&currStreakLabel=d7827e&sideLabels=575279&sideNums=575279&currStreakNum=d7827e&dates=575279" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haikalllp&theme=dark&hide_border=false&background=191724&stroke=ebbcba&ring=ebbcba&fire=ebbcba&currStreakLabel=ebbcba&sideLabels=e0def4&sideNums=e0def4&currStreakNum=ebbcba&dates=e0def4" height="150" alt="streak stats" />
   </picture>
-</div> -->
+</div>
 
 <div align="center">
   <picture>
