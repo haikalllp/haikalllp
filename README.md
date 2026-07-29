@@ -12,9 +12,9 @@
 
 - ♡ i'm a **Junior Fullstack Developer** who enjoys anything with web developement, designing, opensource contributions and ricing
 - <img src="https://cdn.simpleicons.org/archlinux/e8e0d0" height="16" style="vertical-align: middle;" alt="Arch Linux"> avid Linux user - **I Use Arch Btw**
-- <img src="https://cdn.simpleicons.org/linux/e8e0d0" height="16" style="vertical-align: middle;" alt="Linux"> profficient with all OS Windows, Linux, MacOS.
+- <img src="https://cdn.simpleicons.org/linux/e8e0d0" height="16" style="vertical-align: middle;" alt="Linux"> proficient with all OS - Windows, Linux, MacOS.
 - <img src="https://cdn.simpleicons.org/nixos/e8e0d0" height="16" style="vertical-align: middle;" alt="NixOS"> learning to use NixOS
-- ✦ always learning, always breaking something, always building
+- ✦ always learning, always breaking something, always creating and building
 
 ---
 
@@ -38,8 +38,6 @@
 
 ### ˗ˏˋ my projects ´ˎ˗
 
-Projects -
-
 <div align="center">
 
 [![My Stats](https://helio-github-stats.vercel.app/api?username=haikalllp&custom_title=My+Stats&theme=transparent&title_color=e8e0d0&text_color=a09888&icon_color=c8b8a0&ring_color=c8b8a0&border_color=3a3528&hide_border=false&locale=en&border_radius=4.5&card_width=440&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
@@ -52,19 +50,19 @@ Projects -
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=haikalllp&theme=dark&hide_border=false&background=1a1816&stroke=c8b8a0&ring=c8b8a0&fire=e8e0d0&currStreakLabel=e8e0d0&sideLabels=a09888&sideNums=e8e0d0&currStreakNum=e8e0d0&dates=a09888" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=haikalllp&theme=light&hide_border=false&background=f5f0e8&stroke=c8b8a0&ring=c8b8a0&fire=6a6058&currStreakLabel=2a2420&sideLabels=6a6058&sideNums=2a2420&currStreakNum=2a2420&dates=6a6058" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haikalllp&theme=dark&hide_border=false&background=1a1816&stroke=c8b8a0&ring=c8b8a0&fire=e8e0d0&currStreakLabel=e8e0d0&sideLabels=a09888&sideNums=e8e0d0&currStreakNum=e8e0d0&dates=a09888" height="150" alt="streak stats" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=haikalllp&theme=dark&hide_border=false&background=1a1816&stroke=c8b8a0&ring=c8b8a0&fire=e8e0d0&currStreakLabel=e8e0d0&sideLabels=a09888&sideNums=e8e0d0&currStreakNum=e8e0d0&dates=a09888" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=haikalllp&theme=light&hide_border=false&background=f5f0e8&stroke=c8b8a0&ring=c8b8a0&fire=6a6058&currStreakLabel=2a2420&sideLabels=6a6058&sideNums=2a2420&currStreakNum=2a2420&dates=6a6058" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haikalllp&theme=dark&hide_border=false&background=1a1816&stroke=c8b8a0&ring=c8b8a0&fire=e8e0d0&currStreakLabel=e8e0d0&sideLabels=a09888&sideNums=e8e0d0&currStreakNum=e8e0d0&dates=a09888" height="150" alt="streak stats" />
+  </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haikalllp/haikalllp/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haikalllp/haikalllp/output/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/haikalllp/haikalllp/output/github-snake.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haikalllp/haikalllp/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haikalllp/haikalllp/output/github-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/haikalllp/haikalllp/output/github-snake.svg">
+  </picture>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haikalllp&theme=github-compact&hide_border=true&area=true&color=e8e0d0&line=c8b8a0&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haikalllp&theme=github-compact&hide_border=true&area=true&hide_title=true&height=250&color=e8e0d0&line=c8b8a0&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
