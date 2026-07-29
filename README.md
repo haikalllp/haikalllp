@@ -36,25 +36,26 @@
 
 ---
 
-### ˗ˏˋ my projects ´ˎ˗
+<!-- ### ˗ˏˋ my projects ´ˎ˗
 
 <div align="center">
 
-[![My Stats](https://helio-github-stats.vercel.app/api?username=haikalllp&custom_title=My+Stats&theme=transparent&title_color=e8e0d0&text_color=a09888&icon_color=c8b8a0&ring_color=c8b8a0&border_color=3a3528&hide_border=false&locale=en&border_radius=4.5&card_width=440&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
-
 </div>
 
----
+--- -->
 
 ### ˗ˏˋ activity ´ˎ˗
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=haikalllp&theme=dark&hide_border=false&background=1a1816&stroke=c8b8a0&ring=c8b8a0&fire=e8e0d0&currStreakLabel=e8e0d0&sideLabels=a09888&sideNums=e8e0d0&currStreakNum=e8e0d0&dates=a09888" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=haikalllp&theme=light&hide_border=false&background=f5f0e8&stroke=c8b8a0&ring=c8b8a0&fire=6a6058&currStreakLabel=2a2420&sideLabels=6a6058&sideNums=2a2420&currStreakNum=2a2420&dates=6a6058" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haikalllp&theme=dark&hide_border=false&background=1a1816&stroke=c8b8a0&ring=c8b8a0&fire=e8e0d0&currStreakLabel=e8e0d0&sideLabels=a09888&sideNums=e8e0d0&currStreakNum=e8e0d0&dates=a09888" height="150" alt="streak stats" />
-  </picture>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://helio-github-stats.vercel.app/api?username=haikalllp&custom_title=My+Stats&theme=transparent&title_color=e8e0d0&text_color=a09888&icon_color=c8b8a0&ring_color=c8b8a0&border_color=3a3528&hide_border=false&locale=en&border_radius=4.5&card_width=440&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="My Stats" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=haikalllp&theme=dark&hide_border=false&background=1a1816&stroke=c8b8a0&ring=c8b8a0&fire=e8e0d0&currStreakLabel=e8e0d0&sideLabels=a09888&sideNums=e8e0d0&currStreakNum=e8e0d0&dates=a09888" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=haikalllp&theme=light&hide_border=false&background=f5f0e8&stroke=c8b8a0&ring=c8b8a0&fire=6a6058&currStreakLabel=2a2420&sideLabels=6a6058&sideNums=2a2420&currStreakNum=2a2420&dates=6a6058" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=haikalllp&theme=dark&hide_border=false&background=1a1816&stroke=c8b8a0&ring=c8b8a0&fire=e8e0d0&currStreakLabel=e8e0d0&sideLabels=a09888&sideNums=e8e0d0&currStreakNum=e8e0d0&dates=a09888" height="150" alt="streak stats" />
+    </picture>
+  </div>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haikalllp/haikalllp/output/github-snake-dark.svg">
