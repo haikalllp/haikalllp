@@ -3,18 +3,18 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=e8e0d0&center=true&vCenter=true&width=440&lines=hii!!;Junior+Dev+;Web+Developement;Avid+Linux+Enjoyer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=e8e0d0&center=true&vCenter=true&width=440&lines=hii!!;Fullstack+Dev+;Web+Dev+|+UI+Design;Linux+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ### ˗ˏˋ about me ´ˎ˗
 
-- ♡ i'm a **Junior Fullstack Developer** who enjoys anything with web developement, designing, opensource contributions and ricing
-- <img src="https://cdn.simpleicons.org/archlinux/e8e0d0" height="16" style="vertical-align: middle;" alt="Arch Linux"> avid Linux user - **I Use Arch Btw**
-- <img src="https://cdn.simpleicons.org/linux/e8e0d0" height="16" style="vertical-align: middle;" alt="Linux"> proficient with all OS - Windows, Linux, MacOS.
-- <img src="https://cdn.simpleicons.org/nixos/e8e0d0" height="16" style="vertical-align: middle;" alt="NixOS"> learning to use NixOS
-- ✦ always learning, always breaking something, always creating and building
+- ♡ i'm a **Junior Fullstack Developer** who loves web development, UI design, open-source contributions, and desktop ricing.
+- <img src="https://cdn.simpleicons.org/archlinux/e8e0d0" height="16" style="vertical-align: middle;" alt="Arch Linux"> avid Linux user, **I Use Arch Btw**
+- <img src="https://cdn.simpleicons.org/linux/e8e0d0" height="16" style="vertical-align: middle;" alt="Linux"> comfortable developing across multiple operating systems, including Linux, Windows, and macOS.
+- <img src="https://cdn.simpleicons.org/nixos/e8e0d0" height="16" style="vertical-align: middle;" alt="NixOS"> currently learning NixOS.
+- ✦ always learning, always breaking things, always creating and building.
 
 ---
 
