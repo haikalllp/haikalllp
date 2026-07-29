@@ -31,10 +31,10 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # Define the output files and their configurations
           outputs: |
-            dist/github-snake.svg?color_snake=c8b8a0&color_dots=f5f0e8,e0d8c8,c8b8a0,a09888,6a6058
-            dist/github-snake-dark.svg?color_snake=c8b8a0&color_dots=1a1816,2a2824,3a3528,555048,a09888
-            dist/rosepine.gif?color_snake=c8b8a0&color_dots=f5f0e8,e0d8c8,c8b8a0,a09888,6a6058
-            dist/rosepine-dark.gif?color_snake=c8b8a0&color_dots=1a1816,2a2824,3a3528,555048,a09888
+            dist/github-snake.svg?color_snake=#c8b8a0&color_dots=#f5f0e8,#e0d8c8,#c8b8a0,#a09888,#6a6058
+            dist/github-snake-dark.svg?color_snake=#c8b8a0&color_dots=#1a1816,#2a2824,#3a3528,#555048,#a09888
+            dist/rosepine.gif?color_snake=#c8b8a0&color_dots=#f5f0e8,#e0d8c8,#c8b8a0,#a09888,#6a6058
+            dist/rosepine-dark.gif?color_snake=#c8b8a0&color_dots=#1a1816,#2a2824,#3a3528,#555048,#a09888
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Step 3: Deploy the generated files to the 'output' branch
