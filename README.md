@@ -3,24 +3,24 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=e8e0d0&center=true&vCenter=true&width=440&lines=hii!!+%F0%9F%8C%B8;Junior+Dev+;Web+Developement;Avid+Linux+Enjoyer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=e8e0d0&center=true&vCenter=true&width=440&lines=hii!!;Junior+Dev+;Web+Developement;Avid+Linux+Enjoyer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### ˗ˏˋ about me ´ˎ˗
 
-- 🤍 i'm a **Junior Fullstack Developer** who enjoys anything with web developement, designing, opensource contributions and ricing
-- 🐧 avid Linux user - **I Use Arch Btw**
-- 💻️ profficient with all OS Windows, Linux, MacOS.
-- ❄️ learning to use NixOS
-- 🌼 always learning, always breaking something, always fixing it
+- ♡ i'm a **Junior Fullstack Developer** who enjoys anything with web developement, designing, opensource contributions and ricing
+- <img src="https://cdn.simpleicons.org/archlinux/e8e0d0" height="16" style="vertical-align: middle;" alt="Arch Linux"> avid Linux user - **I Use Arch Btw**
+- <img src="https://cdn.simpleicons.org/linux/e8e0d0" height="16" style="vertical-align: middle;" alt="Linux"> profficient with all OS Windows, Linux, MacOS.
+- <img src="https://cdn.simpleicons.org/nixos/e8e0d0" height="16" style="vertical-align: middle;" alt="NixOS"> learning to use NixOS
+- ✦ always learning, always breaking something, always building
 
 ---
 
 ### ˗ˏˋ currently working on ´ˎ˗
 
-⚙️ **[matus-shell](link)** - A custom desktop shell environment for Linux Hyprland
+<img src="https://cdn.simpleicons.org/git/e8e0d0" height="16" style="vertical-align: middle;" alt="Git"> **[matus-shell](https://github.com/haikalllp)** - A custom desktop shell environment for Linux Hyprland
 
 ---
 
